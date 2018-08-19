@@ -4,6 +4,8 @@
 
 所有示例和模型都来自`three.js`，版权归原作者所有。
 
+由于该项目没有服务端，所以模型和场景的保存载入功能无法使用。
+
 ## 演示地址
 
 https://tengge1.github.io/ShadowEditor-examples/demo/index.html
@@ -36,4 +38,5 @@ https://tengge1.github.io/ShadowEditor-examples/demo/index.html
 
 ## 相关网站
 
-* three.js：https://threejs.org/
+* ShadowEditor: https://tengge1.github.io/ShadowEditor
+* three.js: https://threejs.org/
